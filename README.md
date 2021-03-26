@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning (Flutter, Android Studio, Kotlin)
 - 💞️ I’m looking to collaborate on (Java Script, JQuery, Boostrap,PHP)
 - 📫 How to reach me 
-https://www.linkedin.com/in/luiz-fernando-brogliatto-ferreira-2375047b/
-https://twitter.com/BrogliattoLuiz
-https://www.facebook.com/LuizFernandoBrogliattoFerreira
-http://wa.me/5545998413111
-e-mail: luiz0067@gmail.com
+- https://www.linkedin.com/in/luiz-fernando-brogliatto-ferreira-2375047b/
+- https://twitter.com/BrogliattoLuiz
+- https://www.facebook.com/LuizFernandoBrogliattoFerreira
+- http://wa.me/5545998413111
+- e-mail: luiz0067@gmail.com
 
 
 <!---
